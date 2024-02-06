@@ -1,4 +1,4 @@
-# Sudoku-Game-with-SQL-Database
+# Java-Sudoku-Game-with-SQL-Database
 
 
 Business Logic description:
